@@ -33,14 +33,12 @@
   <!-- <script src='lang/en.js' type='text/javascript'></script> -->
 
   <script type="text/javascript">
-    $(function () {
-      var url = window.location.search.match(/url=([^&]+)/);
-      if (url && url.length > 1) {
-        url = decodeURIComponent(url[1]);
-      } else {
-        url = "/api/docs";
-      }
+    function reswag() {
+      $("#auth_container")[0].innerHTML = "";
 
+      var dropdown = $("#url-input select")[0];
+      var url = dropdown.options[dropdown.selectedIndex].value;
+    
       hljs.configure({
         highlightSizeThreshold: 5000
       });
@@ -86,7 +84,9 @@
           console.log.apply(console, arguments);
         }
       }
-  });
+    };
+    
+    $(reswag);
   </script>
 </head>
 
@@ -95,7 +95,15 @@
   <div class="swagger-ui-wrap">
     <a id="logo" href="http://swagger.io"><img class="logo__img" alt="swagger" height="30" width="30" src="images/logo_small.png" /><span class="logo__title">swagger</span></a>
     <form id='api_selector'>
-      <div class='input'><input placeholder="http://example.com/api" id="input_baseUrl" name="baseUrl" type="text"/></div>
+      
+      <div id='url-input'>
+        <select onchange="reswag()">
+          <option value="http://dev.api.wombats.io/api/docs">Dev</option>
+          <option value="http://qa.api.wombats.io/api/docs">QA</option>
+          <option value="http://api.wombats.io/api/docs">Prod</option>
+        </select>
+      </div>
+
       <div id='auth_container'></div>
       <div class='input'><a id="explore" class="header__btn" href="#" data-sw-translate>Explore</a></div>
     </form>
