@@ -26,4 +26,4 @@ We hope that with this game, users will hone their Clojure skills and gain expos
 Look at individual repos (above) for how to get started deving for that repo! 
 
 ## How to Contribute
-Check out our [Waffle](https://waffle.io/willowtreeapps/wombats-api/join) for open tickets
+Look at our [Contributing Documentation](https://github.com/willowtreeapps/wombats-documentation/blob/master/CONTRIBUTING.md) and check out our [Waffle](https://waffle.io/willowtreeapps/wombats-api/join) for open tickets.
