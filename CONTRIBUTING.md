@@ -7,7 +7,7 @@ Our guidelines are intended to help the communication between the developers man
 There are many ways to contribute to an open source project. We're always looking for improved documentation, bug fixes, and feature development and maintain a list of tickets for you to peruse. Please don't use issues as a way to ask support questions. We have a support channel in our [Slack organization](https://wombats-hq.slack.com/) to help! You can also ask questions in the [Clojurian slack organization](http://clojurians.net/).
 
 ## Ground Rules
-* Code of Conduct
+* [Code of Conduct](https://github.com/willowtreeapps/wombats-documentation/blob/master/code-of-conduct.md)
 * Create issues for any major changes and enhancements that you wish to make. Discuss with a maintainer what you wish to implement before submitting a PR. 
 * Keep your status on tickets up to date!
 * Love Clojure :)
