@@ -32,11 +32,12 @@ We also are curating a list of Beginner Issues to get your toes wet. Stay tuned!
 If security is a vulnerability, do NOT open an issue. Email emily.seibert@willowtreeapps.com instead.
 
 Answer the following 5 questions when submitting an issue:
+
 1. What version of the project are you using?
 2. What browser and its version are you using?
 3. What did you do? (Steps to Replicate Issue)
 4. What did you expect to see?
-5. What did you see instead? 
+5. What did you see instead?
 
 ## Suggesting something cool for Wombats
 Open an issue on Github which describes the feature you would like to see, why you need it, and how it should work. Include any relevant documentation that will help prompt a discussion!
