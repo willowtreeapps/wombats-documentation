@@ -25,5 +25,19 @@ We hope that with this game, users will hone their Clojure skills and gain expos
 ## How to Develop
 Look at individual repos (above) for how to get started deving for that repo! 
 
+## Project Diagrams 
+
+### Architecture Diagram
+
+![](https://github.com/willowtreeapps/wombats-documentation/blob/master/diagrams/architecture.png)
+
+### Authentication Diagram
+
+![](https://github.com/willowtreeapps/wombats-documentation/blob/master/diagrams/authentication.png)
+
+### Game Processing Diagram
+
+![](https://github.com/willowtreeapps/wombats-documentation/blob/master/diagrams/game_processing.png)
+
 ## How to Contribute
 Look at our [Contributing Documentation](https://github.com/willowtreeapps/wombats-documentation/blob/master/CONTRIBUTING.md) and check out our [Waffle](https://waffle.io/willowtreeapps/wombats-api/join) for open tickets.
