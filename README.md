@@ -7,6 +7,7 @@ Wombats is an interactive game to learn Clojure and AI strategy. Create a wombat
 We hope that with this game, users will hone their Clojure skills and gain exposure to Open Source projects (and contribute!). 
 
 ## How to play
+* Review [Gameplay](https://github.com/willowtreeapps/wombats-documentation/wiki/Gameplay)
 * Go to our [Wombat Bots](https://github.com/willowtreeapps/wombats-bots) repo and fork to your personal repo.
 * Navigate to [wombats.io](http://qa.wombats.io/#/) 
 * Click Login
