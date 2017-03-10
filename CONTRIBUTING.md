@@ -31,13 +31,12 @@ We also are curating a list of Beginner Issues to get your toes wet. Stay tuned!
 ## Reporting a bug!
 If security is a vulnerability, do NOT open an issue. Email opensource@willowtreeapps.com instead.
 
-Answer the following 5 questions when submitting an issue:
-
-1. What version of the project are you using?
-2. What browser and its version are you using?
-3. What did you do? (Steps to Replicate Issue)
-4. What did you expect to see?
-5. What did you see instead?
+1. Determine where the issue is from - API? Web Client? Lambda? Example Bot?
+2. Go to the corresponding repo.
+3. Navigate to Issues.
+4. Search the current issues for your problem.
+5. If no current issues capture your problem, click `New Issue`.
+6. Follow the template provided.
 
 ## Suggesting something cool for Wombats
 Open an issue on Github which describes the feature you would like to see, why you need it, and how it should work. Include any relevant documentation that will help prompt a discussion!
