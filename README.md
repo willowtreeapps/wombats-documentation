@@ -2,7 +2,7 @@
 This repository provides documentation for all Wombat repos including [Wombats API](https://github.com/willowtreeapps/wombats-api), [Wombats Web Client](https://github.com/willowtreeapps/wombats-web-client), [Wombat Bots](https://github.com/willowtreeapps/wombats-bots), and [Wombat Lamba](https://github.com/willowtreeapps/wombats-lambda).
 
 ## What is Wombats?
-Wombats is an interactive game to learn Clojure and AI strategy. Create a wombat (bot), join a game, and watch your Clojure code play out in an arena against your fellow competitors!
+Wombats is an interactive game to learn about coding and AI strategy. Create a wombat (bot), join a game, and watch your Clojure code play out in an arena against your fellow competitors!
 
 We hope that with this game, users will hone their Clojure skills and gain exposure to Open Source projects (and contribute!). 
 
