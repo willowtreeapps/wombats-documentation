@@ -29,7 +29,7 @@ We also are curating a list of Beginner Issues to get your toes wet. Stay tuned!
 3. If you like the change and think Wombats would benefit, send us a PR tagging the documented issue for the feature/bug.
 
 ## Reporting a bug!
-If security is a vulnerability, do NOT open an issue. Email emily.seibert@willowtreeapps.com instead.
+If security is a vulnerability, do NOT open an issue. Email opensource@willowtreeapps.com instead.
 
 Answer the following 5 questions when submitting an issue:
 
