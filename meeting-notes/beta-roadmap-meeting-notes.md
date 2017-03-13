@@ -1,4 +1,5 @@
 ## Alpha2: WillowTree Hackathon
+
 [Spike] Walking animation
 
 Strategic Zakanos
@@ -15,21 +16,12 @@ Database backups
 
 Point system in game engine
 
-## Alpha3: External Event with Support
 Keys for controlled release
 
+
+## Alpha3: External Event with Support
+
 Error states
-
-Tutorial
-
-New user onboarding
-
-Arena management
-
-## Alpha4: External Event without Support
-DevOps restructure (scaling)
-
-Audit performance for backend
 
 Faceted search
 
@@ -38,6 +30,18 @@ Pagination
 Prevent join-game spamming
 
 Game management
+
+## Alpha4: External Event without Support
+
+Tutorial
+
+New user onboarding
+
+DevOps restructure (scaling)
+
+Audit performance for backend
+
+Arena management
 
 ## Alpha5: Core Gamification 
 My Wombats language indicator
