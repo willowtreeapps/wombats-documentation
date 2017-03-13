@@ -1,4 +1,4 @@
-## Alpha-1: WillowTree Hackathon
+## Alpha2: WillowTree Hackathon
 [Spike] Walking animation
 
 Strategic Zakanos
@@ -15,7 +15,7 @@ Database backups
 
 Point system in game engine
 
-## Alpha-2: External Event with Support
+## Alpha3: External Event with Support
 Keys for controlled release
 
 Error states
@@ -26,7 +26,7 @@ New user onboarding
 
 Arena management
 
-## Alpha-3: External Event without Support
+## Alpha4: External Event without Support
 DevOps restructure (scaling)
 
 Audit performance for backend
@@ -39,7 +39,7 @@ Prevent join-game spamming
 
 Game management
 
-## Alpha-4: Core Gamification 
+## Alpha5: Core Gamification 
 My Wombats language indicator
 
 Arena event box
@@ -50,7 +50,7 @@ Dynamic ranking
 
 User stats
 
-## Alpha-5: Enhanced Gamification
+## Alpha6: Enhanced Gamification
 Status bar language indicator and asset enhancement
 
 Replay simulator 
@@ -63,7 +63,7 @@ Asset animations
 
 Game output during gameplay
 
-## Alpha-6: Conference Workshop
+## Alpha7: Conference Workshop
 Socket history for chat
 
 Game types
@@ -74,7 +74,7 @@ Auto creation of games
 
 Wombat story landing page
 
-## Alpha-7: User Engagement & Marketability
+## Alpha8: User Engagement & Marketability
 Minimap
 
 User management interface
