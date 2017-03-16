@@ -1,0 +1,21 @@
+## The Good
+- Alpha launch events went well, including LnL, workshop and Wombats:30
+- Maintained reasonable workload
+- Reduced tech debt
+- Added Linter
+- Beefed up support for open-source, including templates and changelogs
+- Build out beta roadmap
+- Focused on Github use, including bringing on Jesse
+
+## The Not Good
+- Last-minute deployments, especially before demos (LnL, Wombats:30)
+- Missing dedication to automated testing
+- Lack of QA & design on team
+- Working lunches were common
+- Inconsistent handlers on the API
+
+## Next Steps
+- Deploy to QA every Thursday at 1pm
+- Dedicate Fridays to fixing bugs before deploying to Prod
+- Schedule a recurring workshop 
+- Include end-to-end testing and automating testing in Roadmap estimates
