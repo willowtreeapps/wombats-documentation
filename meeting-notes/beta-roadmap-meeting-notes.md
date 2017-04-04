@@ -40,7 +40,7 @@ Audit performance for backend
 
 Arena management
 
-## Alpha5: Core Gamification 
+## Alpha4: Core Gamification 
 My Wombats language indicator
 
 Arena event box
@@ -49,7 +49,7 @@ Game stats
 
 User stats
 
-## Alpha6: Enhanced Gamification
+## Alpha5: Enhanced Gamification
 Status bar language indicator and asset enhancement
 
 Replay simulator 
@@ -62,7 +62,7 @@ Asset animations
 
 Game output during gameplay
 
-## Alpha7: Conference Workshop
+## Alpha6: Conference Workshop
 Socket history for chat
 
 Game types
@@ -75,7 +75,7 @@ Wombat story landing page
 
 Java & Swift support
 
-## Alpha8: User Engagement & Marketability
+## Alpha7: User Engagement & Marketability
 Minimap
 
 User management interface
