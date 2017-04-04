@@ -1,4 +1,4 @@
-## Alpha2: WillowTree Hackathon
+## Alpha2: External Event with Support
 
 [Spike] Walking animation
 
@@ -8,18 +8,11 @@ Analytics
 
 Game state refactor
 
-Java & Swift support
-
 Round transitions
-
-Database backups
 
 Point system in game engine
 
 Keys for controlled release
-
-
-## Alpha3: External Event with Support
 
 Error states
 
@@ -31,7 +24,11 @@ Prevent join-game spamming
 
 Game management
 
-## Alpha4: External Event without Support
+Dynamic ranking
+
+## Alpha3: External Event without Support
+
+Database backups
 
 Tutorial
 
@@ -49,8 +46,6 @@ My Wombats language indicator
 Arena event box
 
 Game stats 
-
-Dynamic ranking
 
 User stats
 
@@ -77,6 +72,8 @@ Utils library
 Auto creation of games
 
 Wombat story landing page
+
+Java & Swift support
 
 ## Alpha8: User Engagement & Marketability
 Minimap
